@@ -1,8 +1,1 @@
-/jekyll_demo
-|--  _config.yml
-|--  _includes
-|--  _layouts
-| |--  default.html
-|--  _posts
-| |--  2014-10-26-hello-world.html
-|--  index.html
+baseurl: /jekyll_demo
